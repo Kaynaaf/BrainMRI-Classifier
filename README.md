@@ -35,3 +35,6 @@ For that I implemented a function to perform occlusion sensitivity analysis, a t
 | **Weighted Avg** | 0.90 | 0.90   | 0.90     | 1311    |
 
 The model averaged 90% accuracy on the test set.
+
+### Confusion Matrix
+[Confusion matrix](results/cm.png)
