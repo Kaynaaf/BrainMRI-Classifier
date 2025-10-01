@@ -37,4 +37,4 @@ For that I implemented a function to perform occlusion sensitivity analysis, a t
 The model averaged 90% accuracy on the test set.
 
 ### Confusion Matrix
-[Confusion matrix](results/cm.png)
+[Confusion matrix](!results/cm.png)
