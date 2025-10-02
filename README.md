@@ -40,9 +40,9 @@ The model averaged 90% accuracy on the test set.
 ![Confusion matrix](/results/cm.png)
 
 ### Sensitivity Maps 
-![glioma MRI](/results/glioma&200.png)
-![glioma MRI](/results/glioma%20%1.png)
-![meingioma MRI](/results/meningioma%20%0.png)
-![meningioma MRI](/results/meningioma%20%1.png)
-![normal MRI](/results/notumor%20%0.png)
-![pituitary MRI](/results/pituitary%20%0.png)
+![glioma MRI](/results/glioma%200.png)
+![glioma MRI](/results/glioma%201.png)
+![meingioma MRI](/results/meningioma%200.png)
+![meningioma MRI](/results/meningioma%201.png)
+![normal MRI](/results/notumor%200.png)
+![pituitary MRI](/results/pituitary%200.png)
